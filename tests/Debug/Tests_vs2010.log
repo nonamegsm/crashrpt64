@@ -1,0 +1,48 @@
+﻿  stdafx.cpp
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlapp.h(503): warning C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlapp.h(612): warning C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlapp.h(647): warning C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atluser.h(1318): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atluser.h(1328): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(469): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(476): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(483): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(490): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(3682): warning C4838: conversion from 'LONG' to 'DWORD' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atldlgs.h(3208): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atldlgs.h(3230): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atldlgs.h(3291): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atldlgs.h(3306): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+  Utility.cpp
+  CrashRptAPITests.cpp
+  CrashRptProbeAPITests.cpp
+  CrproberTests.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file ..\reporting\crashrpt\Utility.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file ..\reporting\crashrpt\Utility.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrashRptProbeAPITests.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrashRptAPITests.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrashRptProbeAPITests.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrashRptAPITests.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrproberTests.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrproberTests.cpp)
+  DeliveryTests.cpp
+  ExceptionHandlerTests.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file DeliveryTests.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file DeliveryTests.cpp)
+  LangFileTests.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file ExceptionHandlerTests.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file ExceptionHandlerTests.cpp)
+  Tests.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file LangFileTests.cpp)
+  TestUtils.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file LangFileTests.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file Tests.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file Tests.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file TestUtils.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file TestUtils.cpp)
+Utility.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Tests_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\\bin\Testsd.exe
+  Tests_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\\bin\Testsd.pdb (Full PDB)

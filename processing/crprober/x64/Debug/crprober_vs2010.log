@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(351): warning C4456: declaration of 'pos' hides previous local declaration
+  main.cpp(313): note: see declaration of 'pos'
+main.cpp(351): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(820): warning C4456: declaration of 'str' hides previous local declaration
+  main.cpp(779): note: see declaration of 'str'
+main.cpp(836): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  crprober_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\bin\x64\crproberd.exe
+  crprober_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\bin\x64\crproberd.pdb (Full PDB)

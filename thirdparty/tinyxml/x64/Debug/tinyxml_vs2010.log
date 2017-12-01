@@ -1,0 +1,7 @@
+﻿cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  Generating Code...
+  tinyxml_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\lib\x64\tinyxmld.lib

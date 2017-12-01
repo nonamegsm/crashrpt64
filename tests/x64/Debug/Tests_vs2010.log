@@ -1,0 +1,53 @@
+﻿  stdafx.cpp
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlapp.h(503): warning C4996: 'GetVersionExW': was declared deprecated
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlapp.h(612): warning C4996: 'GetVersionExW': was declared deprecated
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlapp.h(647): warning C4996: 'GetVersionExW': was declared deprecated
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atluser.h(1318): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atluser.h(1328): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(469): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(476): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(483): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(490): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(3682): warning C4838: conversion from 'LONG' to 'DWORD' requires a narrowing conversion
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atldlgs.h(3208): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atldlgs.h(3230): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atldlgs.h(3291): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atldlgs.h(3306): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+  Utility.cpp
+  CrashRptAPITests.cpp
+  CrashRptProbeAPITests.cpp
+  CrproberTests.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file ..\reporting\crashrpt\Utility.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file ..\reporting\crashrpt\Utility.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrashRptAPITests.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrashRptAPITests.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrashRptProbeAPITests.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrashRptProbeAPITests.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrproberTests.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrproberTests.cpp)
+  DeliveryTests.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file DeliveryTests.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file DeliveryTests.cpp)
+  ExceptionHandlerTests.cpp
+  LangFileTests.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file LangFileTests.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file LangFileTests.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file ExceptionHandlerTests.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file ExceptionHandlerTests.cpp)
+  Tests.cpp
+  TestUtils.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file TestUtils.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file TestUtils.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file Tests.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file Tests.cpp)
+Tests.cpp(245): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::size_t'
+  Tests.cpp(245): note: consider using '%zd' in the format string
+Tests.cpp(247): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::size_t'
+  Tests.cpp(247): note: consider using '%zd' in the format string
+Tests.cpp(248): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::size_t'
+  Tests.cpp(248): note: consider using '%zd' in the format string
+  Tests_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\\bin\x64\Testsd.exe
+  Tests_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\\bin\x64\Testsd.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  ioapi.c
+  iowin32.c
+  mztools.c
+  unzip.c
+  zip.c
+  minizip_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\lib\minizipd.lib

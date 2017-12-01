@@ -1,0 +1,6 @@
+﻿  ConsoleDemo.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+  ConsoleDemo_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\bin\x64\ConsoleDemod.exe
+  ConsoleDemo_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\bin\x64\ConsoleDemod.pdb (Full PDB)
+          1 file(s) copied.

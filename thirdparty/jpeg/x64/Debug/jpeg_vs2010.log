@@ -1,0 +1,56 @@
+﻿cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemansi.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jfdctint.c
+  jfdctfst.c
+  jfdctflt.c
+  jerror.c
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdatadst.c
+f:\easy_jtag_manager\crashrpt64\thirdparty\jpeg\jdatadst.c(185): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+  jdarith.c
+  jdapimin.c
+  jctrans.c
+  jcsample.c
+  jcprepct.c
+  jcparam.c
+  jcomapi.c
+  jcmaster.c
+  jcmarker.c
+  jcmainct.c
+  jcinit.c
+  jchuff.c
+  jcdctmgr.c
+  jccolor.c
+  jccoefct.c
+  Generating Code...
+  Compiling...
+  jcarith.c
+  jcapistd.c
+  jcapimin.c
+  jaricom.c
+  Generating Code...
+cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  jmemmgr.c
+  jdapistd.c
+  Generating Code...
+  jpeg_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\lib\x64\jpegd.lib

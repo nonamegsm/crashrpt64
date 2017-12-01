@@ -1,0 +1,8 @@
+﻿  framing.c
+f:\easy_jtag_manager\crashrpt64\thirdparty\libogg\src\framing.c(715): warning C4456: declaration of 'page' hides previous local declaration
+  f:\easy_jtag_manager\crashrpt64\thirdparty\libogg\src\framing.c(660): note: see declaration of 'page'
+f:\easy_jtag_manager\crashrpt64\thirdparty\libogg\src\framing.c(716): warning C4456: declaration of 'bytes' hides previous local declaration
+  f:\easy_jtag_manager\crashrpt64\thirdparty\libogg\src\framing.c(662): note: see declaration of 'bytes'
+  bitwise.c
+  Generating Code...
+  libogg_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\lib\liboggd.lib

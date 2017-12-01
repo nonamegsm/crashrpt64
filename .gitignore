@@ -1,0 +1,3 @@
+/bin/*.pdb
+/bin/*.ilk
+/demos/ConsoleDemo/Debug/*.idb

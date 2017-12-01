@@ -1,0 +1,18 @@
+﻿  png.c
+  pngerror.c
+  pnggccrd.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngvcrd.c
+  pngwio.c
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+  libpng_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\\thirdparty\lib\x64\libpngd.lib

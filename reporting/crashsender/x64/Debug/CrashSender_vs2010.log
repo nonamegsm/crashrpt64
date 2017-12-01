@@ -1,0 +1,52 @@
+﻿  stdafx.cpp
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(469): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(476): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(483): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(490): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(3682): warning C4838: conversion from 'LONG' to 'DWORD' requires a narrowing conversion
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\dbghelp\include\dbghelp.h(1540): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\dbghelp\include\dbghelp.h(3056): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlctrlx.h(3269): warning C4838: conversion from 'int' to 'UINT_PTR' requires a narrowing conversion
+  F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlctrlx.h(3266): note: while compiling class template member function 'void WTL::CSortListViewImpl<T>::NotifyParentSortChanged(int,int)'
+          with
+          [
+              T=WTL::CSortListViewCtrl
+          ]
+  F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlctrlx.h(3663): note: see reference to function template instantiation 'void WTL::CSortListViewImpl<T>::NotifyParentSortChanged(int,int)' being compiled
+          with
+          [
+              T=WTL::CSortListViewCtrl
+          ]
+  F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlctrlx.h(3700): note: see reference to class template instantiation 'WTL::CSortListViewImpl<T>' being compiled
+          with
+          [
+              T=WTL::CSortListViewCtrl
+          ]
+  F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlctrlx.h(3719): note: see reference to class template instantiation 'WTL::CSortListViewCtrlImpl<WTL::CSortListViewCtrl,WTL::CListViewCtrl,WTL::CSortListViewCtrlTraits>' being compiled
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlctrlx.h(1081): warning C4838: conversion from 'int' to 'UINT_PTR' requires a narrowing conversion
+  F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlctrlx.h(1076): note: while compiling class template member function 'bool WTL::CHyperLinkImpl<WTL::CHyperLink,ATL::CWindow,ATL::CControlWinTraits>::Navigate(void)'
+  F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlctrlx.h(1323): note: see reference to function template instantiation 'bool WTL::CHyperLinkImpl<WTL::CHyperLink,ATL::CWindow,ATL::CControlWinTraits>::Navigate(void)' being compiled
+  F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlctrlx.h(1820): note: see reference to class template instantiation 'WTL::CHyperLinkImpl<WTL::CHyperLink,ATL::CWindow,ATL::CControlWinTraits>' being compiled
+  SharedMem.cpp
+  Utility.cpp
+  AssyncNotification.cpp
+  CrashInfoReader.cpp
+  CrashSender.cpp
+  DetailDlg.cpp
+  ErrorReportDlg.cpp
+  ErrorReportSender.cpp
+  FilePreviewCtrl.cpp
+  HttpRequestSender.cpp
+  MailMsg.cpp
+  ProgressDlg.cpp
+  ResendDlg.cpp
+  ScreenCap.cpp
+ResendDlg.cpp(552): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+  smtpclient.cpp
+  VideoRec.cpp
+  VideoRecDlg.cpp
+  base64.cpp
+  md5.cpp
+  CrashSender_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\\bin\x64\CrashSender1403d.exe
+  CrashSender_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\bin\x64\CrashSender1403d.pdb (Full PDB)
+          1 file(s) copied.

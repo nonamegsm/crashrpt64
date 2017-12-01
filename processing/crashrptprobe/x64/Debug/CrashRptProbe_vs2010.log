@@ -1,0 +1,45 @@
+﻿  stdafx.cpp
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlapp.h(503): warning C4996: 'GetVersionExW': was declared deprecated
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlapp.h(612): warning C4996: 'GetVersionExW': was declared deprecated
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlapp.h(647): warning C4996: 'GetVersionExW': was declared deprecated
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atluser.h(1318): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atluser.h(1328): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(469): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(476): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(483): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(490): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+f:\easy_jtag_manager\crashrpt64\thirdparty\wtl\atlgdi.h(3682): warning C4838: conversion from 'LONG' to 'DWORD' requires a narrowing conversion
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlmisc.h(1523): warning C4457: declaration of 'pstr' hides function parameter
+  F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\wtl\atlmisc.h(1506): note: see declaration of 'pstr'
+  Utility.cpp
+  CrashDescReader.cpp
+  CrashRptProbe.cpp
+  MinidumpReader.cpp
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\dbghelp\include\dbghelp.h(1540): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrashDescReader.cpp)
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\dbghelp\include\dbghelp.h(1540): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrashRptProbe.cpp)
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\dbghelp\include\dbghelp.h(3056): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrashDescReader.cpp)
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\dbghelp\include\dbghelp.h(3056): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file CrashRptProbe.cpp)
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\dbghelp\include\dbghelp.h(1540): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file MinidumpReader.cpp)
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\dbghelp\include\dbghelp.h(3056): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file MinidumpReader.cpp)
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\dbghelp\include\dbghelp.h(1540): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file ..\..\reporting\crashrpt\Utility.cpp)
+F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\dbghelp\include\dbghelp.h(3056): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file ..\..\reporting\crashrpt\Utility.cpp)
+CrashDescReader.cpp(368): warning C4457: declaration of 'sFileName' hides function parameter
+  CrashDescReader.cpp(36): note: see declaration of 'sFileName'
+MinidumpReader.cpp(117): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE' of greater size
+MinidumpReader.cpp(669): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE' of greater size
+CrashRptProbe.cpp(814): warning C4456: declaration of 'it' hides previous local declaration
+  CrashRptProbe.cpp(526): note: see declaration of 'it'
+CrashRptProbe.cpp(851): warning C4456: declaration of 'it' hides previous local declaration
+  CrashRptProbe.cpp(526): note: see declaration of 'it'
+f:\easy_jtag_manager\crashrpt64\reporting\crashrpt\utility.cpp(224): warning C4702: unreachable code
+f:\easy_jtag_manager\crashrpt64\reporting\crashrpt\utility.cpp(228): warning C4702: unreachable code
+f:\easy_jtag_manager\crashrpt64\reporting\crashrpt\utility.cpp(232): warning C4702: unreachable code
+f:\easy_jtag_manager\crashrpt64\reporting\crashrpt\utility.cpp(236): warning C4702: unreachable code
+f:\easy_jtag_manager\crashrpt64\reporting\crashrpt\utility.cpp(240): warning C4702: unreachable code
+  md5.cpp
+     Creating library F:\Easy_Jtag_Manager\CrashRPT64\lib\x64\CrashRptProbe1403d.lib and object F:\Easy_Jtag_Manager\CrashRPT64\lib\x64\CrashRptProbe1403d.exp
+  CrashRptProbe_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\bin\x64\CrashRptProbe1403d.dll
+  CrashRptProbe_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\bin\x64\CrashRptProbe1403d.pdb (Full PDB)
